@@ -46,7 +46,3 @@ More info and API documentation can be found at:
 ## Zipped file contents
 
 After training, the best model will be saved in `models`. The `report.json` file containing the results will be saved in the output folder after testing using test data.
-
-## Bonus Task
-
-This pipeline can also be executed with AWS, specifically AWS Sagemaker.
