@@ -1,6 +1,6 @@
 # Insurance Fraud Detection
 
-Implementation of  **Insurance fraud detection** task.
+Implementation of  **Insurance fraud detection**.
 
 ## Get Started
 
